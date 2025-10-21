@@ -1,0 +1,7 @@
+{
+  "name": "AI Interview Platform",
+  "description": "A web application that lets companies create coding interviews and candidates take them in a secure, auto-graded environment, plus an AI interviewer that asks questions, scores responses, and provides feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
